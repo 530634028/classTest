@@ -39,5 +39,4 @@ void main()
 	cout << " hello world " << endl;
 	cout << " yes it is! " << endl;
 	test.printData();
-	std::cout << "Test for first commit! " << std::endl;
 }
